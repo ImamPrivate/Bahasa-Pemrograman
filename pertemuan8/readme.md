@@ -1,0 +1,1 @@
+Array adalah sekumpulan data yang memiliki jenis serupa dan mampu disimpan dalam satu variabel.

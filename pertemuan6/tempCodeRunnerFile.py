@@ -1,0 +1,4 @@
+       
+ucapan ()
+ucapan ()
+ucapan ()

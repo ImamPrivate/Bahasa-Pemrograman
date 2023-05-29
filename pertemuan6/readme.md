@@ -1,0 +1,2 @@
+1.Fungsi adalah bagian dari program yang dapat digunakan ulang. Hal ini bisa dicapai dengan memberi nama pada blok statemen, kemudian nama ini dapat dipanggil di manapun dalam program. 
+2.Fungsi dalam Python didefinisikan menggunakan kata kunci "def". Setelah def ada "nama pengenal fungsi" diikut dengan "parameter" yang diapit oleh tanda kurung dan diakhir dingan tanda titik dua " : "
